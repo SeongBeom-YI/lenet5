@@ -1,3 +1,5 @@
 # lenet5
 
-I will design "lenet-5 inference simple core"
+I will study and design "lenet-5 inference simple core"
+
+# Reference
